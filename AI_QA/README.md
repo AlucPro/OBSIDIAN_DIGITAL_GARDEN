@@ -1,0 +1,1 @@
+This folder mainly stores some QA with AI.

@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "9876b5ce175d9b11",
+    "type": "split",
+    "children": [
+      {
+        "id": "9beaad236dcf6cb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67b7b9b155e7988e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPUTER_SCIENCE/03、技术管理碎笔.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c5ffd3d0cd43ef5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5090f3d80c5228bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9863dfcdb97bdfb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4873488a757a43d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c066d4b2098e4c5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "right": {
+    "id": "76027682b4b0586e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dd16a65d3e48a23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcec0dd847aacac9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "COMPUTER_SCIENCE/03、技术管理碎笔.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "783915e852f2e1a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "COMPUTER_SCIENCE/03、技术管理碎笔.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34d47e4bdf58d433",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0031099a074529ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "COMPUTER_SCIENCE/03、技术管理碎笔.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "67b7b9b155e7988e",
+  "lastOpenFiles": [
+    "COMPUTER_SCIENCE/02、聊聊 Code Review 与技术管理.md",
+    "COMPUTER_SCIENCE/03、技术管理碎笔.md",
+    "COMPUTER_SCIENCE/04、管理者做什么.md",
+    "COMPUTER_SCIENCE/README.md",
+    "COMPUTER_SCIENCE/01、我是如何学习一项新技术.md",
+    "AI_QA/0001、如何快速降低自己的皮质醇水平？.md",
+    "Memos/About Memos.md",
+    "Memos/2024-08.md",
+    "COMPUTER_SCIENCE",
+    "Memos/2024-09.md",
+    "Memos/png_2024_09/image 2.png",
+    "Memos/2024-10.md",
+    "index.md",
+    "AI_QA/README.md",
+    "Memos/reading_notes/吸引力.md",
+    "AI_QA",
+    "List/List of Book 2024.md",
+    "Memos/2024-07.md",
+    "Memos/2024-05.md",
+    "Memos/2024-06.md",
+    "Memos/png_2024_10/IMG_2400.png",
+    "Memos/png_2024_10/temporary_memo_share.png",
+    "Memos/png_2024_09/album_temp__ssa92326e05e0c1ca92143373ss_1725941648.png",
+    "Memos/png_2024_08/Pasted image 20241104110029.png",
+    "Memos/png_2024_08/image 7.png",
+    "Memos/png_2024_09/fxn 2024-09-02 164111.056.jpg",
+    "Memos/png_2024_09/Pasted image 20241104112949.png",
+    "Memos/png_2024_09/image.png",
+    "Memos/png_2024_09/image 3.png",
+    "Memos/png_2024_10",
+    "Memos/png_2024_09",
+    "Memos/png_2024_08",
+    "Memos/reading_notes/在一个充满缺憾的世界里.md",
+    "Memos/ADHD 注意缺陷与多动障碍.md",
+    "List/About List.md",
+    "List/List of Movie.md",
+    "Memos/reading_notes",
+    "Memos/png_2024_07",
+    "Memos/ABC Model.md",
+    "Memos/激素介绍.md",
+    "未命名.md",
+    "Memos/png_2024_06/未命名.md",
+    "Memos/png_2024_06",
+    "Memos/png_2024_05",
+    "RAW_Memos",
+    "Pipeline/Backup/photo backup pipeline.md",
+    "未命名.canvas"
+  ]
+}
