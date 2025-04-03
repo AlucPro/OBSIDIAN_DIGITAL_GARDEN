@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Minimal",
+  "textFontFamily": "Anonymous Pro for Powerline,Apple SD Gothic Neo",
+  "interfaceFontFamily": "Anonymous Pro for Powerline,Apple SD Gothic Neo"
 }
