@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPUTER_SCIENCE/TechBits_Journal/01、Build a Global CLI Tool with Node.js.md",
+                "file": "COMPUTER_SCIENCE/10_Minutes_Design/01、Designing a Multi-Theme System with CSS Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01、Build a Global CLI Tool with Node.js"
+              "title": "01、Designing a Multi-Theme System with CSS Variables"
             }
           }
         ],
@@ -189,14 +189,16 @@
   "active": "f29c92e7a636b916",
   "lastOpenFiles": [
     "COMPUTER_SCIENCE/README.md",
+    "COMPUTER_SCIENCE/10_Minutes_Design/01、Designing a Multi-Theme System with CSS Variables.md",
+    "COMPUTER_SCIENCE/10_Minutes_Design",
     "COMPUTER_SCIENCE/TechBits_Journal/01、Build a Global CLI Tool with Node.js.md",
+    "DIGITAL_GARDEN/data_for_info.jpeg",
     "COMPUTER_SCIENCE/TechBits_Journal",
     "COMPUTER_SCIENCE/The_Semi-Ordered_Mind/02、聊聊 Code Review 与技术管理.md",
     "COMPUTER_SCIENCE/The_Semi-Ordered_Mind/01、我是如何学习一项新技术.md",
     "List/lists_of_note.jpg",
     "List/List of Movie.md",
     "List/About List.md",
-    "DIGITAL_GARDEN/data_for_info.jpeg",
     "AI_QA/README.md",
     "AI_QA/0001、如何快速降低自己的皮质醇水平？.md",
     "COMPUTER_SCIENCE/The_Semi-Ordered_Mind/03、技术管理碎笔.md",
@@ -220,7 +222,6 @@
     "List/List of Book 2024.md",
     "Memos/2024-07.md",
     "Memos/2024-05.md",
-    "Memos/2024-06.md",
     "Memos/png_2024_10/IMG_2400.png",
     "Memos/png_2024_10/temporary_memo_share.png",
     "Memos/png_2024_09/album_temp__ssa92326e05e0c1ca92143373ss_1725941648.png",
@@ -233,7 +234,6 @@
     "Memos/reading_notes",
     "Memos/png_2024_07",
     "Memos/png_2024_06",
-    "Memos/png_2024_05",
     "未命名.canvas"
   ]
 }
