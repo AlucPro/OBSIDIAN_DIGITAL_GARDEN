@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "87de5db30711f0e6",
+        "id": "e24c6d6ef308516f",
         "type": "tabs",
         "children": [
           {
-            "id": "9c880293b088a75d",
+            "id": "8ea7d36b8a0dee3e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "List/lists_of_note.jpg"
+                "file": "COMPUTER_SCIENCE/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "lists_of_note"
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "f29c92e7a636b916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMPUTER_SCIENCE/TechBits_Journal/01、Build a Global CLI Tool with Node.js.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01、Build a Global CLI Tool with Node.js"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,20 +186,23 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "d9863dfcdb97bdfb",
+  "active": "f29c92e7a636b916",
   "lastOpenFiles": [
+    "COMPUTER_SCIENCE/README.md",
+    "COMPUTER_SCIENCE/TechBits_Journal/01、Build a Global CLI Tool with Node.js.md",
+    "COMPUTER_SCIENCE/TechBits_Journal",
+    "COMPUTER_SCIENCE/The_Semi-Ordered_Mind/02、聊聊 Code Review 与技术管理.md",
+    "COMPUTER_SCIENCE/The_Semi-Ordered_Mind/01、我是如何学习一项新技术.md",
+    "List/lists_of_note.jpg",
     "List/List of Movie.md",
     "List/About List.md",
     "DIGITAL_GARDEN/data_for_info.jpeg",
     "AI_QA/README.md",
     "AI_QA/0001、如何快速降低自己的皮质醇水平？.md",
-    "COMPUTER_SCIENCE/README.md",
-    "COMPUTER_SCIENCE/01、我是如何学习一项新技术.md",
-    "COMPUTER_SCIENCE/02、聊聊 Code Review 与技术管理.md",
-    "COMPUTER_SCIENCE/03、技术管理碎笔.md",
-    "COMPUTER_SCIENCE/04、管理者做什么.md",
-    "COMPUTER_SCIENCE/05、我如何写笔记.md",
-    "COMPUTER_SCIENCE/06、一些关于如何做判断的思考.md",
+    "COMPUTER_SCIENCE/The_Semi-Ordered_Mind/03、技术管理碎笔.md",
+    "COMPUTER_SCIENCE/The_Semi-Ordered_Mind/04、管理者做什么.md",
+    "COMPUTER_SCIENCE/The_Semi-Ordered_Mind/05、我如何写笔记.md",
+    "COMPUTER_SCIENCE/The_Semi-Ordered_Mind/06、一些关于如何做判断的思考.md",
     "index.md",
     "COMPUTER_SCIENCE/06、限速器的设计.md",
     "Memos/实践论.md",
@@ -207,16 +227,13 @@
     "Memos/png_2024_08/Pasted image 20241104110029.png",
     "Memos/png_2024_08/image 7.png",
     "Memos/png_2024_09/fxn 2024-09-02 164111.056.jpg",
-    "Memos/png_2024_09/Pasted image 20241104112949.png",
     "Memos/png_2024_10",
     "Memos/png_2024_09",
     "Memos/png_2024_08",
-    "Memos/reading_notes/在一个充满缺憾的世界里.md",
     "Memos/reading_notes",
     "Memos/png_2024_07",
     "Memos/png_2024_06",
     "Memos/png_2024_05",
-    "RAW_Memos",
     "未命名.canvas"
   ]
 }
