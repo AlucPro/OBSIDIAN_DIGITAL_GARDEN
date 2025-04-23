@@ -8,4 +8,4 @@ Just like a real garden, this digital space is ever-evolving and constantly grow
 
 Feel free to explore and wander through this garden of digital delights. Who knows what hidden gems you might uncover?
 
-![[data_for_info.jpeg]]
+![[./DIGITAL_GARDEN/data_for_info.jpeg]]
