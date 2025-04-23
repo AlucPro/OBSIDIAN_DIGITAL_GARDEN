@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPUTER_SCIENCE/10_Minutes_Design/01、Designing a Multi-Theme System with CSS Variables.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01、Designing a Multi-Theme System with CSS Variables"
+              "title": "README"
             }
           }
         ],
@@ -188,14 +188,16 @@
   },
   "active": "f29c92e7a636b916",
   "lastOpenFiles": [
+    "index.md",
+    "README.md",
+    "COMPUTER_SCIENCE/TechBits_Journal/01、Build a Global CLI Tool with Node.js.md",
     "COMPUTER_SCIENCE/README.md",
+    "COMPUTER_SCIENCE/The_Semi-Ordered_Mind/01、我是如何学习一项新技术.md",
     "COMPUTER_SCIENCE/10_Minutes_Design/01、Designing a Multi-Theme System with CSS Variables.md",
     "COMPUTER_SCIENCE/10_Minutes_Design",
-    "COMPUTER_SCIENCE/TechBits_Journal/01、Build a Global CLI Tool with Node.js.md",
     "DIGITAL_GARDEN/data_for_info.jpeg",
     "COMPUTER_SCIENCE/TechBits_Journal",
     "COMPUTER_SCIENCE/The_Semi-Ordered_Mind/02、聊聊 Code Review 与技术管理.md",
-    "COMPUTER_SCIENCE/The_Semi-Ordered_Mind/01、我是如何学习一项新技术.md",
     "List/lists_of_note.jpg",
     "List/List of Movie.md",
     "List/About List.md",
@@ -205,7 +207,6 @@
     "COMPUTER_SCIENCE/The_Semi-Ordered_Mind/04、管理者做什么.md",
     "COMPUTER_SCIENCE/The_Semi-Ordered_Mind/05、我如何写笔记.md",
     "COMPUTER_SCIENCE/The_Semi-Ordered_Mind/06、一些关于如何做判断的思考.md",
-    "index.md",
     "COMPUTER_SCIENCE/06、限速器的设计.md",
     "Memos/实践论.md",
     "Pasted image 20250403191718.png",
@@ -221,7 +222,6 @@
     "AI_QA",
     "List/List of Book 2024.md",
     "Memos/2024-07.md",
-    "Memos/2024-05.md",
     "Memos/png_2024_10/IMG_2400.png",
     "Memos/png_2024_10/temporary_memo_share.png",
     "Memos/png_2024_09/album_temp__ssa92326e05e0c1ca92143373ss_1725941648.png",

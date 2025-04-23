@@ -1,5 +1,3 @@
-# Designing a Multi-Theme System with CSS Variables
-
 ## Introduction
 
 Supporting light and dark themes enhances user experience, especially when aligned with system preferences like Google Chrome’s dark and light modes. This post explains how to use CSS variables and media queries to design a multi-theme system that switches automatically or via user selection.
