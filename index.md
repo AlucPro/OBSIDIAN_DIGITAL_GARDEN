@@ -7,3 +7,17 @@ Just like a real garden, this digital space is ever-evolving and constantly grow
 Feel free to explore and wander through this garden of digital delights. Who knows what hidden gems you might uncover?
 
 ![[data_for_info.jpeg]]
+
+---
+
+Here are some of my digital flowers:
+
+- I talk with AI: [[AI_QA/README|AI_QA]]
+- Computer Science: [[COMPUTER_SCIENCE/README|COMPUTER_SCIENCE]]
+- Memos: [[Memos/About Memos|Memos]]
+- A series of lists: [[About List|List]]
+
+And you can also find me in those social media:
+
+- Welcome follow me on: [GitHub](https://github.com/AlucPro)
+- My Photos: [Instagram](https://www.instagram.com/aluc_pro/)
