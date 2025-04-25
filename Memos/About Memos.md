@@ -9,6 +9,14 @@ Whenever I revisit an old card, I gain a fresh perspective!
 Hence, I made the decision to review my flomos and select some cards to reflect upon.
 
 I organized these notes by month, here is the list:
+2025
+* [[2025-04]]
+* [[2025-03]]
+* [[2025-02]]
+* [[2025-01]]
+2024
+* [[2024-12]]
+* [[2024-11]]
 * [[2024-10]]
 * [[2024-09]]
 * [[2024-08]]
