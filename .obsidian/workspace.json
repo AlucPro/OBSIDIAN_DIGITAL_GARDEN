@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memos/About Memos.md",
+                "file": "Memos/2024-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About Memos"
+              "title": "2024-11"
             }
           }
         ]
@@ -173,18 +173,19 @@
   },
   "active": "62941099389cb8f0",
   "lastOpenFiles": [
+    "Memos/2024-12.md",
+    "Memos/2025-01.md",
+    "Memo_imgs/2025-01/IMG_4564.jpeg",
+    "Memo_imgs/2025-01/image 3.png",
+    "Memos/2025-02.md",
+    "Memos/2025-04.md",
     "Memos/2025-03.md",
     "Memos/About Memos.md",
-    "Memos/2025-04.md",
     "output/2024-11.md",
-    "Memos/2025-02.md",
-    "Memos/2025-01.md",
-    "Memos/2024-12.md",
     "Memos/2024-11.md",
     "output/2024-12.md",
     "Memo_imgs/2024-12/image 3.png",
     "output/2025-01.md",
-    "Memo_imgs/2025-01/image 3.png",
     "output/2025-02.md",
     "Memo_imgs/2025-02/dblack 2025-02-03 173624.650.jpeg",
     "Memo_imgs/2025-02/image.png",
@@ -197,7 +198,6 @@
     "PIC-003 第一本照片书.md",
     "output/2024-15.md",
     "Memo_imgs/file/2024-11-06/1569602/6cc52246cbd088f5e04dece3a21a6cb3.png",
-    "Memo_imgs/file/2025-01-11/1569602/ea08c658a67c9b34b68b2d2689dcccc3.png",
     "output/2022-01.md",
     "NMemos/2022-01.md",
     "NMemos/2023-01.md",
@@ -218,7 +218,6 @@
     "Memos_img/file/2024-12-29/1569602",
     "Memos_img/2025-04/2025-04.md",
     "Memos_img/2025-03/2025-03.md",
-    "Memos_img/2025-02/2025-02.md",
     "未命名.canvas"
   ]
 }
