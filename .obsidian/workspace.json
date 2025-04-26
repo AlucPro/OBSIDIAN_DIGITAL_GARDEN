@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memos/2024-11.md",
+                "file": "COMPUTER_SCIENCE/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11"
+              "title": "README"
             }
           }
         ]
@@ -173,6 +173,10 @@
   },
   "active": "62941099389cb8f0",
   "lastOpenFiles": [
+    "COMPUTER_SCIENCE/TechBits_Journal/02、Record how to publish a npm package.md",
+    "COMPUTER_SCIENCE/README.md",
+    "COMPUTER_SCIENCE/TechBits_Journal/01、Build a Global CLI Tool with Node.js.md",
+    "Memos/2024-11.md",
     "Memos/2024-12.md",
     "Memos/2025-01.md",
     "Memo_imgs/2025-01/IMG_4564.jpeg",
@@ -182,7 +186,6 @@
     "Memos/2025-03.md",
     "Memos/About Memos.md",
     "output/2024-11.md",
-    "Memos/2024-11.md",
     "output/2024-12.md",
     "Memo_imgs/2024-12/image 3.png",
     "output/2025-01.md",
@@ -216,8 +219,6 @@
     "Memos_img/file/2025-01-15/1569602",
     "Memos_img/file/2025-01-04/1569602",
     "Memos_img/file/2024-12-29/1569602",
-    "Memos_img/2025-04/2025-04.md",
-    "Memos_img/2025-03/2025-03.md",
     "未命名.canvas"
   ]
 }

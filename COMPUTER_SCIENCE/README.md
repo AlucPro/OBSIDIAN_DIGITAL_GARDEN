@@ -19,3 +19,4 @@ Some fragmented thoughts on doing technology, most of which are not systematic.
 **TechBits Journal:**
 
 - [[01、Build a Global CLI Tool with Node.js]]
+* [[02、Record how to publish a npm package]]
