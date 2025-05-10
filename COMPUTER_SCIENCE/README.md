@@ -16,6 +16,7 @@ Some fragmented thoughts on doing technology, most of which are not systematic.
 * [[01、Designing a Multi-Theme System with CSS Variables]]
 * [[02、前端登录系统设计方案]]
 * [[03、Web三方账号绑定的安全设计：防止账号被劫持绑定]]
+* [[04、高影响力用户信息流（Feed）问题]]
 
 
 **TechBits Journal:**
