@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPUTER_SCIENCE/10_Minutes_Design/03、Web三方账号绑定的安全设计：防止账号被劫持绑定.md",
+                "file": "COMPUTER_SCIENCE/10_Minutes_Design/02、前端登录系统设计方案.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03、Web三方账号绑定的安全设计：防止账号被劫持绑定"
+              "title": "02、前端登录系统设计方案"
             }
           }
         ]
@@ -174,8 +174,8 @@
   "active": "858b1821ba43d14a",
   "lastOpenFiles": [
     "COMPUTER_SCIENCE/README.md",
+    "COMPUTER_SCIENCE/10_Minutes_Design/02、前端登录系统设计方案.md",
     "COMPUTER_SCIENCE/10_Minutes_Design/03、Web三方账号绑定的安全设计：防止账号被劫持绑定.md",
-    "COMPUTER_SCIENCE/10_Minutes_Design/02、前端登录系统设计方案（React + Next.js + SSO + 跨域 + Cookie）.md",
     "COMPUTER_SCIENCE/10_Minutes_Design/01、Designing a Multi-Theme System with CSS Variables.md",
     "AI_QA/0004、秒杀系统.md",
     "COMPUTER_SCIENCE/TechBits_Journal/03、How to Deploy a Website to Cloudflare Pages from GitHub.md",
