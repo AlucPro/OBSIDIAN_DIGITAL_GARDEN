@@ -14,6 +14,7 @@ Some fragmented thoughts on doing technology, most of which are not systematic.
 **10 Minutes Design:**
 
 * [[01、Designing a Multi-Theme System with CSS Variables]]
+* [[02、前端登录系统设计方案（React + Next.js + SSO + 跨域 + Cookie）]]
 
 
 **TechBits Journal:**

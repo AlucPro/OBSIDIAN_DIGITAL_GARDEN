@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39fb4a54df49c993",
+        "id": "5294a94506e1ce1d",
         "type": "tabs",
         "children": [
           {
-            "id": "62941099389cb8f0",
+            "id": "858b1821ba43d14a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 465.5
   },
   "right": {
     "id": "76027682b4b0586e",
@@ -167,22 +167,30 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "random-note:开始漫游笔记": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "62941099389cb8f0",
+  "active": "858b1821ba43d14a",
   "lastOpenFiles": [
+    "COMPUTER_SCIENCE/10_Minutes_Design/02、前端登录系统设计方案（React + Next.js + SSO + 跨域 + Cookie）.md",
+    "COMPUTER_SCIENCE/10_Minutes_Design/01、Designing a Multi-Theme System with CSS Variables.md",
+    "AI_QA/0004、秒杀系统.md",
+    "COMPUTER_SCIENCE/TechBits_Journal/03、How to Deploy a Website to Cloudflare Pages from GitHub.md",
+    "AI_QA/README.md",
+    "AI_QA/0003、SSO.md",
     "COMPUTER_SCIENCE/TechBits_Journal/02、Record how to publish a npm package.md",
-    "COMPUTER_SCIENCE/README.md",
     "COMPUTER_SCIENCE/TechBits_Journal/01、Build a Global CLI Tool with Node.js.md",
+    "Memos/2025-04.md",
+    "COMPUTER_SCIENCE/README.md",
+    "Memo_imgs/2025-04/11.jpg",
+    "Memo_imgs/2025-04",
     "Memos/2024-11.md",
     "Memos/2024-12.md",
     "Memos/2025-01.md",
     "Memo_imgs/2025-01/IMG_4564.jpeg",
     "Memo_imgs/2025-01/image 3.png",
     "Memos/2025-02.md",
-    "Memos/2025-04.md",
     "Memos/2025-03.md",
     "Memos/About Memos.md",
     "output/2024-11.md",
@@ -200,15 +208,8 @@
     "Memo_imgs/2024-09/image.png",
     "PIC-003 第一本照片书.md",
     "output/2024-15.md",
-    "Memo_imgs/file/2024-11-06/1569602/6cc52246cbd088f5e04dece3a21a6cb3.png",
     "output/2022-01.md",
     "NMemos/2022-01.md",
-    "NMemos/2023-01.md",
-    "NMemos/2024-10.md",
-    "NMemos/2023-12.md",
-    "NMemos/2022-03.md",
-    "NMemos/2022-02.md",
-    "NMemos/2024-12.md",
     "Memos_img/file/js/select.js",
     "Memos_img/file/2025-03-27/1569602",
     "Memos_img/file/2025-03-11/1569602",
@@ -218,7 +219,6 @@
     "Memos_img/file/2025-01-11/1569602",
     "Memos_img/file/2025-01-15/1569602",
     "Memos_img/file/2025-01-04/1569602",
-    "Memos_img/file/2024-12-29/1569602",
     "未命名.canvas"
   ]
 }
