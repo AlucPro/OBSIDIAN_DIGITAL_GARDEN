@@ -12,10 +12,10 @@ Feel free to explore and wander through this garden of digital delights. Who kno
 
 Here are some of my digital flowers:
 
-- I talk with AI: [[AI_QA/README|AI_QA]]
 - Computer Science: [[COMPUTER_SCIENCE/README|COMPUTER_SCIENCE]]
 - Memos: [[Memos/About Memos|Memos]]
 - A series of lists: [[About List|List]]
+- I talk with AI: [[AI_QA/README|AI_QA]]
 
 And you can also find me in those social media:
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5294a94506e1ce1d",
+        "id": "382aaee14db6fe42",
         "type": "tabs",
         "children": [
           {
-            "id": "858b1821ba43d14a",
+            "id": "c09c7d44d0699053",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,12 +171,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "858b1821ba43d14a",
+  "active": "c09c7d44d0699053",
   "lastOpenFiles": [
-    "COMPUTER_SCIENCE/README.md",
-    "Memos/2025-05-12.md",
-    "COMPUTER_SCIENCE/10_Minutes_Design/04、高影响力用户信息流（Feed）问题.md",
+    "COMPUTER_SCIENCE/TechBits_Journal/01、Build a Global CLI Tool with Node.js.md",
     "COMPUTER_SCIENCE/10_Minutes_Design/02、前端登录系统设计方案.md",
+    "Memos/2025-03.md",
+    "Memos/小黄鸭编程法.md",
+    "README.md",
+    "Pasted image 20250403191718.png",
+    "index.md",
+    "Memos/2025-05-12.md",
+    "COMPUTER_SCIENCE/README.md",
+    "COMPUTER_SCIENCE/10_Minutes_Design/04、高影响力用户信息流（Feed）问题.md",
     "COMPUTER_SCIENCE/10_Minutes_Design/03、Web三方账号绑定的安全设计：防止账号被劫持绑定.md",
     "COMPUTER_SCIENCE/10_Minutes_Design/01、Designing a Multi-Theme System with CSS Variables.md",
     "AI_QA/0004、秒杀系统.md",
@@ -184,7 +190,6 @@
     "AI_QA/README.md",
     "AI_QA/0003、SSO.md",
     "COMPUTER_SCIENCE/TechBits_Journal/02、Record how to publish a npm package.md",
-    "COMPUTER_SCIENCE/TechBits_Journal/01、Build a Global CLI Tool with Node.js.md",
     "Memos/2025-04.md",
     "Memo_imgs/2025-04/11.jpg",
     "Memo_imgs/2025-04",
@@ -194,7 +199,6 @@
     "Memo_imgs/2025-01/IMG_4564.jpeg",
     "Memo_imgs/2025-01/image 3.png",
     "Memos/2025-02.md",
-    "Memos/2025-03.md",
     "Memos/About Memos.md",
     "output/2024-11.md",
     "output/2024-12.md",
@@ -203,13 +207,9 @@
     "output/2025-02.md",
     "Memo_imgs/2025-02/dblack 2025-02-03 173624.650.jpeg",
     "Memo_imgs/2025-02/image.png",
-    "output/2025-03.md",
-    "output/2025-04.md",
     "Memo_imgs/2024-07/image.png",
     "Memo_imgs/2024-08/image.png",
     "Memo_imgs/2024-10/image.png",
-    "Memo_imgs/2024-09/image.png",
-    "PIC-003 第一本照片书.md",
     "Memos_img/file/js/select.js",
     "Memos_img/file/2025-03-27/1569602",
     "Memos_img/file/2025-03-11/1569602",
