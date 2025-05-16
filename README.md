@@ -1,4 +1,4 @@
-[Online Site](https://dg.aluc.me/)
+[Digital Garden](https://dg.aluc.me/)
 
 Welcome to my digital garden!
 

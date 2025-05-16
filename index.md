@@ -19,5 +19,6 @@ Here are some of my digital flowers:
 
 And you can also find me in those social media:
 
-- Welcome follow me on: [GitHub](https://github.com/AlucPro)
-- My Photos: [Instagram](https://www.instagram.com/aluc_pro/)
+[GitHub](https://github.com/AlucPro) | [Instagram](https://www.instagram.com/aluc_pro/) | [Threads](https://www.threads.net/@aluc_pro)
+
+Contact me: [jinxm.aluc@gmail.com](mailto:jinxm.aluc@gmail.com)
