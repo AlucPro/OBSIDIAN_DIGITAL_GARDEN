@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMPUTER_SCIENCE/TechBits_Journal/03、GIT 实践手记.md",
+                "file": "List/List of EN Words.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03、GIT 实践手记"
+              "title": "List of EN Words"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 335.5
   },
   "right": {
     "id": "76027682b4b0586e",
@@ -173,13 +173,18 @@
   },
   "active": "0ac2d340c7384097",
   "lastOpenFiles": [
-    "index.md",
-    "COMPUTER_SCIENCE/TechBits_Journal/03、GIT 实践手记.md",
-    "README.md",
-    "COMPUTER_SCIENCE/README.md",
-    "List/List of Book 2024.md",
+    "List/List of Clothing Essentials.md",
+    "List/List of EN Words.md",
     "List/About List.md",
     "List/List of Movie.md",
+    "List/List of Book 2024.md",
+    "List/lists_of_note.jpg",
+    "COMPUTER_SCIENCE/The_Semi-Ordered_Mind/07、一些较好的实践.md",
+    "COMPUTER_SCIENCE/TechBits_Journal/03、GIT 实践手记.md",
+    "COMPUTER_SCIENCE/10_Minutes_Design/03、Web三方账号绑定的安全设计：防止账号被劫持绑定.md",
+    "COMPUTER_SCIENCE/README.md",
+    "index.md",
+    "README.md",
     "Pipeline/photo-backup-pipeline.jpg",
     "asset",
     "Memos/2025-05-12.md",
@@ -189,7 +194,6 @@
     "Memos/小黄鸭编程法.md",
     "asset/Pasted image 20250403191718.png",
     "COMPUTER_SCIENCE/10_Minutes_Design/04、高影响力用户信息流（Feed）问题.md",
-    "COMPUTER_SCIENCE/10_Minutes_Design/03、Web三方账号绑定的安全设计：防止账号被劫持绑定.md",
     "COMPUTER_SCIENCE/10_Minutes_Design/01、Designing a Multi-Theme System with CSS Variables.md",
     "AI_QA/0004、秒杀系统.md",
     "COMPUTER_SCIENCE/TechBits_Journal/03、How to Deploy a Website to Cloudflare Pages from GitHub.md",
@@ -201,16 +205,12 @@
     "Memo_imgs/2025-04",
     "Memos/2024-11.md",
     "Memos/2024-12.md",
-    "Memos/2025-01.md",
     "Memo_imgs/2025-01/IMG_4564.jpeg",
     "Memo_imgs/2025-01/image 3.png",
-    "Memos/2025-02.md",
-    "Memos/About Memos.md",
     "Memo_imgs/2024-12/image 3.png",
     "Memo_imgs/2025-02/dblack 2025-02-03 173624.650.jpeg",
     "Memo_imgs/2025-02/image.png",
     "Memo_imgs/2024-07/image.png",
-    "Memo_imgs/2024-08/image.png",
     "Memos_img/file/js/select.js",
     "Memos_img/file/2025-03-27/1569602",
     "Memos_img/file/2025-03-11/1569602",

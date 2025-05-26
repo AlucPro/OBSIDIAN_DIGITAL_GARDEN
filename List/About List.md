@@ -14,4 +14,4 @@ Inspired by this, I decided to write down some interesting lists in this noteboo
 ### Basic
 - 📖 [[List of Book 2024]]
 - 🎬 [[List of Movie]]
-
+- [[List of Clothing Essentials]]
